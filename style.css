@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: table;
+  background-color: #ddd;
+  margin: 0;
+}
+
+h1 {
+  color: #0c6892;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+}
+
+.wrapper {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
